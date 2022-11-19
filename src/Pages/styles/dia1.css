@@ -1,0 +1,29 @@
+.Dia1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80vw;
+    height: 100vh;
+}
+
+.square{
+    color: white;
+    height: 500px;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+}
+
+.square .title{
+    text-align: center;
+    background-color: #993399;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.square .content{
+    background-color: #993399;
+    padding-left: 20px;
+    font-size: 32px;
+    height: 400px;
+}
