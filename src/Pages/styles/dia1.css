@@ -6,7 +6,7 @@
     height: 100vh;
 }
 
-.square{
+.D1_square{
     color: white;
     height: 500px;
     width: 500px;
@@ -14,16 +14,17 @@
     flex-direction: column;
 }
 
-.square .title{
+.D1_square .D1_title{
     text-align: center;
     background-color: #993399;
     font-size: 30px;
     margin-bottom: 10px;
 }
 
-.square .content{
+.D1_square .D1_content{
     background-color: #993399;
     padding-left: 20px;
     font-size: 32px;
     height: 400px;
+    text-align: left;
 }

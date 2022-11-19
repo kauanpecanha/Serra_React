@@ -1,0 +1,34 @@
+.Dia11{
+    width: 85vw;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 32px;
+}
+
+.D11_square{
+    width: 400px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.D11_square span{
+    color: black;
+}
+
+.D11_square button{
+    background-color: #993399;
+    color: white;
+    border-color: transparent;
+    font-size: 32px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.D11_square button:hover{
+    background-color: #b91fb9;
+    color: rgb(232, 230, 230);
+}

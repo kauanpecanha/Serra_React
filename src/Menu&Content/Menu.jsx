@@ -8,12 +8,13 @@ export default function Menu(){
                 <ul className="list">
                     <li className = "element"><a href = "/">Home</a></li>
                     <li className = "element"><a href = "/dia1">Dia 1.0</a></li>
-                    <li className = "element"><a href = "/dia11">Dia 1.1</a></li>
-                    <li className = "element"><a href = "/dia2">Dia 2.0</a></li>
-                    <li className = "element"><a href = "/dia21">Dia 2.1</a></li>
-                    <li className = "element"><a href = "/dia3">Dia 3.1</a></li>
-                    <li className = "element"><a href = "/dia4">Dia 4.0</a></li>
-                    <li className = "element"><a href = "/dia6">Dia 6.0</a></li>
+                    <li className = "element"><a href = "/dia11">Dia 2.0</a></li>
+                    <li className = "element"><a href = "/dia2">Dia 3.0</a></li>
+                    <li className = "element"><a href = "/dia21">Dia 4.0</a></li>
+                    <li className = "element"><a href = "/dia3">Dia 5.0</a></li>
+                    <li className = "element"><a href = "/dia31">Dia 6.0</a></li>
+                    <li className = "element"><a href = "/dia4">Dia 7.0</a></li>
+                    <li className = "element"><a href = "/dia6">Dia 8.0</a></li>
                 </ul>
             </nav>
         </aside>
