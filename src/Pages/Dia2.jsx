@@ -3,7 +3,7 @@ import './styles/Dia2.css'
 
 function Dia2(){
     return(
-        <div className="D2_Dia2">
+        <div className="Dia2">
             <div className="D2_square">
                 <div className="D2_title">
                     <h2>Cadastro</h2>
