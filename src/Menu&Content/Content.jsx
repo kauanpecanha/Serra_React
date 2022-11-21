@@ -19,6 +19,8 @@ export default function Content(){
                 <Route path = "/dia11" element = {<Dia11 />}/>
 
                 <Route path = "/dia2" element = {<Dia2 />}/>
+
+                <Route path = "/dia21" element = {<Dia21 />}/>
             </Routes>            
         </main>
     )

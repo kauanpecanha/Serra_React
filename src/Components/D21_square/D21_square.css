@@ -1,0 +1,32 @@
+.square{
+    width: 551px;
+    height: 355px;
+    background-color: #50C878;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.square_content_data{
+    height: 70px;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+.square_content_data input{
+    height: 100%;
+    border-color: transparent;
+    width: 100%;
+    margin-left: 40px;
+}
+
+.resultado{
+    background-color: white;
+    width: 185px;
+    height: 21px;
+    height: 100%;
+}
