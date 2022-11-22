@@ -26,6 +26,8 @@
     font-size: 32px;
     margin-top: 20px;
     cursor: pointer;
+    border-radius: 10px;
+    font-family: Oswald;
 }
 
 .D11_square button:hover{
