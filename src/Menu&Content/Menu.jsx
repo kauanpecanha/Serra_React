@@ -6,15 +6,15 @@ export default function Menu(){
         <aside className="Menu">
             <nav>
                 <ul className="list">
-                    <li className = "element"><a href = "/">Home</a></li>
-                    <li className = "element"><a href = "/dia1">Dia 1.0</a></li>
-                    <li className = "element"><a href = "/dia11">Dia 2.0</a></li>
-                    <li className = "element"><a href = "/dia2">Dia 3.0</a></li>
-                    <li className = "element"><a href = "/dia21">Dia 4.0</a></li>
-                    <li className = "element"><a href = "/dia3">Dia 5.0</a></li>
-                    <li className = "element"><a href = "/dia31">Dia 6.0</a></li>
-                    <li className = "element"><a href = "/dia4">Dia 7.0</a></li>
-                    <li className = "element"><a href = "/dia6">Dia 8.0</a></li>
+                    <li className = "element"><a href = "/">Início</a></li>
+                    <li className = "element"><a href = "/dia1">UseState()</a></li>
+                    <li className = "element"><a href = "/dia11">UseEffect()</a></li>
+                    <li className = "element"><a href = "/dia2">useRef()</a></li>
+                    <li className = "element"><a href = "/dia21">useMemo()</a></li>
+                    <li className = "element"><a href = "/dia3">useCallback()</a></li>
+                    <li className = "element"><a href = "/dia31">useContext()</a></li>
+                    <li className = "element"><a href = "/dia4">useReducer()</a></li>
+                    <li className = "element"><a href = "/dia6">useMyHook()</a></li>
                 </ul>
             </nav>
         </aside>
