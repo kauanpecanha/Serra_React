@@ -1,0 +1,7 @@
+.Dia3{
+    width: 85vw;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
