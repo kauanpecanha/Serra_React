@@ -9,10 +9,10 @@ export default function Dia21(){
                     <h1>Serra Calculator</h1>
             </div>
             <div className="D21_squares_area">
-                <D21_square title = "Soma"/>
-                <D21_square title = "Subtração"/>
-                <D21_square title = "Multiplicação"/>
-                <D21_square title = "Divisão"/>
+                <D21_square title = "Soma" code = {1}/>
+                <D21_square title = "Subtração" code = {2}/>
+                <D21_square title = "Multiplicação" code = {3}/>
+                <D21_square title = "Divisão" code = {4}/>
             </div>
         </div>
     )
